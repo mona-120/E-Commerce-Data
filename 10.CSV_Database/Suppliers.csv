@@ -1,0 +1,21 @@
+Supplier_Id,Supplier_Name,Contact_Name,City
+S001,Unknown,Unknown,New York
+S002,John,Unknown,New York
+S003,Anna,Unknown,Unknown
+S004,Omar,Lea,Paris
+S005,Mohamed,Unknown,Unknown
+S006,Unknown,Jane,New York
+S007,Liu,Lea,Tokyo
+S008,Mohamed,Unknown,Cairo
+S009,Unknown,Anna,Tokyo
+S010,Unknown,John,Tokyo
+S011,Unknown,Unknown,London
+S012,Ali,Liu,Unknown
+S013,Anna,Lea,Cairo
+S014,Mohamed,Sara,Unknown
+S015,John,Ali,Unknown
+S016,Liu,Jane,Unknown
+S017,Mohamed,John,London
+S018,Unknown,Mohamed,Unknown
+S019,Unknown,Liu,Unknown
+S020,Unknown,Sara,Paris

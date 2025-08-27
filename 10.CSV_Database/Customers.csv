@@ -1,0 +1,101 @@
+Customer_Id,First_Name,Last_Name,Country,Registration_Date
+C001,Ali,Unknown,Unknown,1/15/2024
+C002,Unknown,Unknown,Japan,5/12/2024
+C003,Unknown,Unknown,Unknown,2/28/2024
+C004,Omar,Unknown,France,1/15/2024
+C005,Sara,Mohamed,France,2/28/2024
+C006,Mohamed,Omar,United Kingdom,1/15/2024
+C007,Jane,Mohamed,United Kingdom,2/28/2024
+C008,Omar,Anna,Japan,2/28/2024
+C009,Liu,Unknown,France,2/28/2024
+C010,Unknown,Liu,Unknown,2/28/2024
+C011,Liu,Mohamed,United Kingdom,5/12/2024
+C012,Unknown,Unknown,Japan,2/28/2024
+C013,Lea,Ali,Egypt,2/28/2024
+C014,Liu,Omar,Japan,5/12/2024
+C015,Lea,Unknown,Egypt,2/28/2024
+C016,John,Anna,Japan,1/15/2024
+C017,Unknown,Liu,Unknown,2/28/2024
+C018,Unknown,Unknown,Egypt,2/28/2024
+C019,Liu,Lea,France,2/28/2024
+C020,Omar,Mohamed,France,2/28/2024
+C021,Ali,Mohamed,Unknown,2/28/2024
+C022,Ali,Sara,Japan,2/28/2024
+C023,Anna ,Unknown,Unknown,2/28/2024
+C024,Liu,Unknown,Egypt,2/28/2024
+C025,Ali,John,Unknown,2/28/2024
+C026,Unknown,Lea,United States,2/28/2024
+C027,Lea,Jane,Unknown,2/28/2024
+C028,Anna ,Unknown,Egypt,2/28/2024
+C029,Liu,Sara,Japan,2/28/2024
+C030,Mohamed,John,United Kingdom,2/28/2024
+C031,Anna ,Unknown,Unknown,2/28/2024
+C032,Mohamed,Mohamed,Japan,2/28/2024
+C033,Unknown,Mohamed,Unknown,7/21/2024
+C034,Lea,Anna,United Kingdom,2/28/2024
+C035,Anna ,Anna,Unknown,2/28/2024
+C036,Unknown,Jane,Unknown,2/28/2024
+C037,Ali,Anna,Egypt,1/15/2024
+C038,Jane,Mohamed,Japan,7/21/2024
+C039,Anna ,Lea,Japan,1/15/2024
+C040,Liu,Mohamed,United States,2/28/2024
+C041,Lea,Lea,Unknown,7/21/2024
+C042,John,Mohamed,France,2/28/2024
+C043,Anna ,Unknown,Unknown,2/28/2024
+C044,Sara,Unknown,Japan,2/28/2024
+C045,Liu,Lea,Unknown,2/28/2024
+C046,Sara,Ali,Unknown,2/28/2024
+C047,Lea,Unknown,United Kingdom,2/28/2024
+C048,Omar,Unknown,United States,5/12/2024
+C049,Unknown,Jane,Egypt,2/28/2024
+C050,Ali,Unknown,Japan,2/28/2024
+C051,Jane,Sara,France,2/28/2024
+C052,John,Jane,United Kingdom,5/12/2024
+C053,Liu,Mohamed,United Kingdom,2/28/2024
+C054,Jane,Jane,United States,7/21/2024
+C055,Unknown,Lea,United Kingdom,2/28/2024
+C056,Unknown,Liu,Unknown,2/28/2024
+C057,John,Jane,France,2/28/2024
+C058,Lea,Sara,Unknown,2/28/2024
+C059,Ali,Lea,Unknown,7/21/2024
+C060,John,Anna,Unknown,2/28/2024
+C061,Unknown,Sara,United States,2/28/2024
+C062,Mohamed,Unknown,Japan,7/21/2024
+C063,John,Lea,Unknown,2/28/2024
+C064,Sara,Omar,Egypt,2/28/2024
+C065,Ali,Jane,Egypt,2/28/2024
+C066,Mohamed,Sara,Egypt,2/28/2024
+C067,Anna ,Unknown,Unknown,2/28/2024
+C068,Ali,Ali,United Kingdom,2/28/2024
+C069,John,Unknown,United States,2/28/2024
+C070,Lea,John,France,2/28/2024
+C071,Anna ,Omar,France,5/12/2024
+C072,Anna ,Unknown,France,2/28/2024
+C073,Jane,Sara,Japan,2/28/2024
+C074,Ali,Anna,Unknown,2/28/2024
+C075,Ali,John,Unknown,2/28/2024
+C076,Unknown,Liu,United Kingdom,2/28/2024
+C077,Ali,Unknown,Egypt,5/12/2024
+C078,Anna ,Unknown,United Kingdom,2/28/2024
+C079,Jane,Liu,Unknown,2/28/2024
+C080,Jane,Ali,France,2/28/2024
+C081,Lea,Unknown,France,2/28/2024
+C082,Unknown,Omar,United States,5/12/2024
+C083,Jane,Unknown,Unknown,2/28/2024
+C084,Mohamed,Unknown,Unknown,2/28/2024
+C085,Liu,Lea,United States,2/28/2024
+C086,Jane,Ali,France,2/28/2024
+C087,Unknown,Unknown,Unknown,1/15/2024
+C088,Mohamed,Unknown,Unknown,5/12/2024
+C089,Unknown,Unknown,Japan,2/28/2024
+C090,Lea,Lea,France,1/15/2024
+C091,Mohamed,Jane,United States,5/12/2024
+C092,Liu,Unknown,Unknown,2/28/2024
+C093,Liu,Jane,Unknown,2/28/2024
+C094,Liu,Unknown,Egypt,2/28/2024
+C095,Liu,Unknown,France,2/28/2024
+C096,Unknown,Unknown,Egypt,5/12/2024
+C097,Unknown,Liu,Unknown,2/28/2024
+C098,Unknown,Sara,Unknown,5/12/2024
+C099,Sara,John,United Kingdom,2/28/2024
+C100,Liu,Mohamed,United States,2/28/2024
