@@ -13,16 +13,16 @@ It's a full-cycle data analysis project using real-world e-commerce data. Starte
 - Power BI
 
 ## Project Steps
-1. Designed ERD and mapped table relationships.
-2. Cleaned and transformed raw data.
-3. Loaded processed data into MySQL for advanced SQL queries.
-4. Built interactive dashboards in Power BI.
+1. Designed ERD and mapped table relationships
+2. Cleaned and transformed raw data
+3. Loaded processed data into MySQL for advanced SQL queries
+4. Built interactive dashboards in Power BI
 
 ## Insights
-- Sales trends.
-- Product performance.
-- Customer behavior.
-- Number of orders by month.
-- Number of orders by country.
-- Number of orders by payment method.
-- Number of orders by status.
+- Sales trends
+- Product performance
+- Customer behavior
+- Number of orders by month
+- Number of orders by country
+- Number of orders by payment method
+- Number of orders by status
